@@ -1,5 +1,5 @@
 {
-  "name": "system-components",
+  "name": "@bebraw/system-components",
   "version": "2.0.3",
   "description": "Create consistent design-system-driven React UI components",
   "main": "dist/index",
